@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m-lovqvist
 - 👀 I’m interested in the creatitivity of being a programmer!
-- 🌱 I’m currently learning C# & .NET
+- 🌱 I’m currently learning C# & .NET, HTML5, CSS, JavaScript & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
